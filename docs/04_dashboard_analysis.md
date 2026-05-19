@@ -8,7 +8,8 @@
 
 Tableau Public: https://public.tableau.com/app/profile/inna.myroshnichenko3475/viz/Book2_17791720496540/MonthlyMarketingPerformanceReport
 
-https://raw.githubusercontent.com/innamir/Monthly-Marketing-Performance-Report/main/Monthly%20Marketing%20Performance%20Report.png
+![Dashboard](https://raw.githubusercontent.com/innamir/Monthly-Marketing-Performance-Report/main/dashboard.png)
+
 
 
 ---
@@ -87,7 +88,7 @@ Email ROAS залишався стабільним на рівні 2.2–2.7 п�
 Весь аналіз та рекомендації базуються виключно на зрілих когортах (registration_date ≤ 13.02.2026).
 
 ---
-![Dashboard](https://github.com/innamir/Monthly-Marketing-Performance-Report/blob/main/Monthly%20Marketing%20Performance%20Report%20mature90d.png)
+![Dashboard](https://raw.githubusercontent.com/innamir/Monthly-Marketing-Performance-Report/main/dashboard_90d.png)
 
 
 ## Рішення по дизайну дашборду
