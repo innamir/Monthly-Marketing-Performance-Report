@@ -8,7 +8,7 @@
 
 Tableau Public: https://public.tableau.com/app/profile/inna.myroshnichenko3475/viz/Book2_17791720496540/MonthlyMarketingPerformanceReport
 
-https://github.com/innamir/Monthly-Marketing-Performance-Report/blob/main/Monthly%20Marketing%20Performance%20Report.png?raw=true
+https://raw.githubusercontent.com/innamir/Monthly-Marketing-Performance-Report/main/Monthly%20Marketing%20Performance%20Report.png
 
 
 ---
